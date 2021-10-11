@@ -6,9 +6,9 @@ This is my first *Open Source Book* - a collaborative effort to come up with a b
 
 *Practically* is supposed to mean both *technically*, i.e., how Zhamak's Data Mesh principles can be implemented with software, but even more so, *organizationally*. We think that Data Mesh has so far often been slightly misunderstood as a more technical, architectural concept just confined to the analytics space, but for us, the *organizational consequences* advocated by Zhamak also *beyond the analytics space* are even more important and powerful.
 
-We see Data Mesh as a continuation of the fundamental business concept described originally by Alfred P. Sloan in his 1964 Doubleday book *My Time With General Motors*:
+We see Data Mesh as a continuation of the fundamental business concept described originally by Alfred P. Sloan in his 1964 Doubleday book *My Time With General Motors*, where he wrote:
 
-* *decentralization with co-ordinated control*.
+> It has been a thesis of this book that good management rests on a reconciliation of centrali- zation and decentralization, or *decentralization with co-ordinated control*.
 
 In the software world, the same idea has been taken about numerous times, most notably in Eric Evan's 2003 book *Domain-Driven Design* and Sam Newman's 2015 book *Building Microservices* - and with Zhamak's Data Mesh, we think there is a big opportunity to *re-connect the software with the business world*.
 
