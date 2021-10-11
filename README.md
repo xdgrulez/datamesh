@@ -12,13 +12,17 @@ We see Data Mesh as a continuation of the fundamental business concept described
 
 In the software world, the same idea has been taken up numerous times, most notably in Eric Evan's 2003 book *Domain-Driven Design* and Sam Newman's 2015 book *Building Microservices*, but until Zhamak's Data Mesh, the software and the business world have stayed disconnected for the most part. Their intersection and the need for a coordinated decentralization in both worlds has rarely been discussed and taken up, and we think that Data Mesh provides a big opportunity to *re-connect the software with the business world*.
 
-## Format
+## Outline
 
-We have decided to use Markdown as our markup language for writing the book for simplicity and to make the entrance barrier for new writers as low as possible.
+This is the [outline](outline.md). 
 
 ## Reading List
 
-This is the: [reading list](reading.md).
+This is the [reading list](reading.md).
+
+## Format
+
+We have decided to use Markdown as our markup language for writing the book for simplicity and to make the entrance barrier for new writers as low as possible.
 
 ## Contributors
 
