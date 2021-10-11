@@ -1,5 +1,7 @@
 # Reading List
 
+Books, papers, presentations...
+
 ## Business Organization
 
 * Alfred P. Sloan, *My Years with General Motors*, Doubleday 1964. https://books.google.de/books?id=qHJEAAAAIAAJ&redir_esc=y
