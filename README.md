@@ -1,4 +1,4 @@
-# Data Mesh Open Source Book
+# Data Mesh in Practice (Open Source Book)
 
 ## Introduction
 
