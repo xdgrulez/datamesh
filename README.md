@@ -23,5 +23,5 @@ This is the: [reading list](reading.md).
 ## Contributors
 
 * Ralph Debusmann
-* Pavan Keshavamurthy
+* Pavan Keshavamurthy (https://platformatory.io/)
 * everybody else is welcome!
