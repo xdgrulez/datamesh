@@ -10,7 +10,7 @@ We see Data Mesh as a continuation of the fundamental business concept described
 
 > It has been a thesis of this book that good management rests on a reconciliation of centralization and decentralization, or *decentralization with co-ordinated control*.
 
-In the software world, the same idea has been taken about numerous times, most notably in Eric Evan's 2003 book *Domain-Driven Design* and Sam Newman's 2015 book *Building Microservices* - and with Zhamak's Data Mesh, we think there is a big opportunity to *re-connect the software with the business world*.
+In the software world, the same idea has been taken up numerous times, most notably in Eric Evan's 2003 book *Domain-Driven Design* and Sam Newman's 2015 book *Building Microservices* - and with Zhamak's Data Mesh, we think there is a big opportunity to *re-connect the software with the business world*.
 
 ## Format
 
