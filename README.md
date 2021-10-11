@@ -18,7 +18,7 @@ We have decided to use Markdown as our markup language for writing the book for 
 
 ## Reading List
 
-This is the reading list: [here](reading.md)
+This is the: [reading list](reading.md).
 
 ## Contributors
 
