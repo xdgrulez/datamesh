@@ -1,2 +1,2 @@
 # datamesh
-Data Mesh in Practice OS Book
+Data Mesh in Practice Open Source Book
