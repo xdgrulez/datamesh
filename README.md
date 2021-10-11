@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is my first *Open Source Book* - a collaborative effort to come up with a book explaining how Zhamak Dehghani's *Data Mesh* can be put to use - both organizationally and technically. While Zhamak is going to release her book titled *Data Mesh* with O'Reilly at the end of this year, our aim is to finish ours only shortly after to augment Zhamak's book with a more practically-oriented companion.
+This is my first *Open Source Book* - a collaborative effort to come up with a book explaining how Zhamak Dehghani's *Data Mesh* can be put to use - both organizationally and technically. While Zhamak is going to release her book titled *Data Mesh* with O'Reilly at the end of this year, our aim is to finish a version edition of ours only shortly after to augment Zhamak's book with a more practically-oriented companion.
 
 *Practically* is supposed to mean both *technically*, i.e., how Zhamak's Data Mesh principles can be implemented with software, but even more so, *organizationally*. We think that Data Mesh has so far often been slightly misunderstood as a more technical, architectural concept just confined to the analytics space, but for us, the *organizational consequences* advocated by Zhamak also *beyond the analytics space* are even more important and powerful.
 
