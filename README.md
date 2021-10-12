@@ -12,6 +12,12 @@ We see Data Mesh as a continuation of the fundamental business concept described
 
 In the software world, the same idea has been taken up numerous times, most notably in Eric Evan's 2003 book *Domain-Driven Design* and Sam Newman's 2015 book *Building Microservices*, but until Zhamak's Data Mesh, the software and the business world have stayed disconnected for the most part. Their intersection and the need for a coordinated decentralization in both worlds has rarely been discussed and taken up, and we think that Data Mesh provides a big opportunity to *re-connect the software with the business world*.
 
+## Audience
+
+The audience of this book should be primarily those in charge - the *managers and executives* who can actually drive the change necessary to implement the principles of Data Mesh in their organizations. They are the primary audience because for us, Data Mesh is more of an organizational concept, and less of an architectural one.
+
+The secondary audience is software engineers/architects who are going to be those who have do execute the necessary changes on the technical side.
+
 ## Outline
 
 This is the [outline](outline.md). 
