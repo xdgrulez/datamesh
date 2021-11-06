@@ -19,3 +19,69 @@ Books, papers, presentations...
 * Sam Newman, *Building Microservices*, O'Reilly 2015, https://samnewman.io/books/building_microservices/
 * Marc Schultze and Arif Wider, Spark & AI Summit 2020, *Data Mesh in Practice: How Europe’s Leading Online Platform for Fashion Goes Beyond the Data Lake*, https://databricks.com/de/session_na20/data-mesh-in-practice-how-europes-leading-online-platform-for-fashion-goes-beyond-the-data-lake
 * Ben Stopford and Michael Noll, Kafka Summit Europe 2021, *Apache Kafka and the Data Mesh*, https://www.confluent.de/events/kafka-summit-europe-2021/apache-kafka-and-the-data-mesh/
+
+## Other
+
+Decentralization 
+
+https://www.industryweek.com/leadership/article/21145316/is-decentralizing-right-for-your-company
+
+https://www.goco.io/blog/rise-decentralized-organization/
+
+https://link.springer.com/chapter/10.1007%2F978-3-540-46490-7_4
+
+https://events.idg.com/event-series/cso50-conference-awards/?utm_source=Newsletter&utm_medium=social&utm_campaign=CSO50_editorial
+
+Data Reply (Data Mesh)
+
+Axon
+
+https://www.mckinsey.com/business-functions/mckinsey-digital/how-we-help-clients/digital-organization
+https://www.everestgrp.com/2019-08-why-digital-transformations-fail-3-exhausting-reasons-blog-51164.html
+https://kristasoft.com/digital-transformation-success/
+https://www.kearney.com/web/answers/article/?/a/what-are-examples-of-big-transformation-failures-and-why-did-they-fail
+https://www.from.digital/is-digital-transformation-worth-it
+https://so.digital/article/Failed-Digital-Transformation-Projects-Its-the-People-Stupid
+https://reverscore.com/critical-missing-piece-from-four-failed-digital-transformations/
+https://www.cio.com/article/3340362/pandg-revitalizes-innovation-for-the-digital-age.html
+Axon
+
+https://www.mckinsey.com/business-functions/mckinsey-digital/how-we-help-clients/digital-organization
+
+https://www.everestgrp.com/2019-08-why-digital-transformations-fail-3-exhausting-reasons-blog-51164.html
+
+https://kristasoft.com/digital-transformation-success/
+
+https://www.kearney.com/web/answers/article/?/a/what-are-examples-of-big-transformation-failures-and-why-did-they-fail
+
+https://www.from.digital/is-digital-transformation-worth-it
+
+https://so.digital/article/Failed-Digital-Transformation-Projects-Its-the-People-Stupid
+
+https://reverscore.com/critical-missing-piece-from-four-failed-digital-transformations/
+
+https://www.cio.com/article/3340362/pandg-revitalizes-innovation-for-the-digital-age.html
+
+https://www.cio.com/article/3235958/secrets-for-getting-digital-transformation-right.html
+
+https://www.bcg.com/publications/2017/technology-organizing-for-digital-future
+Organizing for a Digital Future
+
+OCTOBER 18, 2017 
+By Gabrielle Novacek, Rashi Agarwal, Sonya Hoo, Steve Maaseide, Benjamin Rehberg, and Liza Stutts
+
+https://www.cio.com/article/3216010/navigating-the-brave-new-world-of-decentralized-it.html
+
+https://www.domo.com/learn/article/gbtw-a-decentralized-future-a-case-for-consideration
+
+https://sloanreview.mit.edu/article/7-key-principles-to-govern-digital-initiatives/
+
+https://blog.serviceware-se.com/centralized-vs-decentralized-it?hs_amp=true
+
+https://infinitive.com/centralized-vs-federate-digital-transformations/amp/
+
+https://www.cdotrends.com/story/15189/decentralization-vs-centralization-epic-digital-leader-struggle
+
+https://www.mckinsey.de/business-functions/mckinsey-digital/our-insights/toward-an-integrated-technology-operating-model
+
+https://www.forbes.com/sites/peterbendorsamuel/2018/08/09/how-your-companys-it-group-must-change-to-support-digital-transformation/amp/
