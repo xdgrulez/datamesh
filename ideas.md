@@ -146,3 +146,16 @@ Strangler Pattern/Facade from Sam Newman's 2015 book "Building Microservices"
 
 Data Mesh theory -> Zhamak's book
 practice         -> Data Mesh in Practice (with microservices and Kafka?)
+
+--
+
+- Is the Data Mesh a product, platform or a process?
+- How does Data mesh gel in with the enterprise stack?- What kind of evolutionary org structures / topologies work?
+
+Distributed systems metaphor
+- Mesh topology
+- Data Agility
+- Organic Digitalization 
+- IT into the business
+
+https://www.linkedin.com/in/kiransreewastav/
