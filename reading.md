@@ -85,3 +85,6 @@ https://www.cdotrends.com/story/15189/decentralization-vs-centralization-epic-di
 https://www.mckinsey.de/business-functions/mckinsey-digital/our-insights/toward-an-integrated-technology-operating-model
 
 https://www.forbes.com/sites/peterbendorsamuel/2018/08/09/how-your-companys-it-group-must-change-to-support-digital-transformation/amp/
+
+Dan Pink 2009 Drive
+https://www.amazon.de/Drive-Surprising-Truth-About-Motivates/dp/1594484805
