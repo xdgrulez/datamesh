@@ -12,7 +12,7 @@ In the business world, decentralization is key to achieve economies of scale, an
 
 Fast forward to today to read anything from leading business consultancies such as McKinsey, and you can be sure that decentralization is almost always the guiding principle to organize businesses - only given up for centralization if really necessary to gain the effects of synergy, e.g. in the areas of purchasing, legal or human resources. In the blog "To centralize or not to centralize?" from the McKinsey Quarterly (June 2011, https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/to-centralize-or-not-to-centralize), the authors conclude that a decision to centralize requires a yes to at least one of three questions
 
-![Three questions from the To centralize or not to centralize McKinsey blog](/pix/McKinsey_Decentralization_3_Questions.jpg)
+![Three questions from the To centralize or not to centralize McKinsey blog](/blogs/pix/McKinsey_Decentralization_3_Questions.jpg)
 
 ## Digital Organizations are Centralized
 
