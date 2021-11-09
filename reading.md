@@ -6,6 +6,7 @@ Books, papers, presentations...
 
 * Alfred P. Sloan, *My Years with General Motors*, Doubleday 1964, https://books.google.de/books?id=qHJEAAAAIAAJ&redir_esc=y
 * Andrew Campbell, Sven Kunisch and Günter Müller-Stewens, *To centralize or not to centralize?*, McKinsey Quarterly Blog 2011, https://www.mckinsey.com/business-functions/organization/our-insights/to-centralize-or-not-to-centralize
+* Olli Laurén, *Making a Case for Decentralized Companies*, Industry Week 2020, https://www.industryweek.com/leadership/article/21145316/is-decentralizing-right-for-your-company
 
 ## Digital Organization
 
@@ -23,8 +24,6 @@ Books, papers, presentations...
 ## Other
 
 Decentralization 
-
-https://www.industryweek.com/leadership/article/21145316/is-decentralizing-right-for-your-company
 
 https://www.goco.io/blog/rise-decentralized-organization/
 
@@ -88,3 +87,5 @@ https://www.forbes.com/sites/peterbendorsamuel/2018/08/09/how-your-companys-it-g
 
 Dan Pink 2009 Drive
 https://www.amazon.de/Drive-Surprising-Truth-About-Motivates/dp/1594484805
+
+https://www.pioneeringminds.com/alfred-sloan-organizing-corporation/
