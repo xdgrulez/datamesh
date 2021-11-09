@@ -4,9 +4,11 @@ Books, papers, presentations...
 
 ## Business Organization
 
-* Alfred P. Sloan, *My Years with General Motors*, Doubleday 1964, https://books.google.de/books?id=qHJEAAAAIAAJ&redir_esc=y
 * Andrew Campbell, Sven Kunisch and Günter Müller-Stewens, *To centralize or not to centralize?*, McKinsey Quarterly Blog 2011, https://www.mckinsey.com/business-functions/organization/our-insights/to-centralize-or-not-to-centralize
+* GoCo, *The Rise of the Decentralized Organization*, https://www.goco.io/blog/rise-decentralized-organization/
 * Olli Laurén, *Making a Case for Decentralized Companies*, Industry Week 2020, https://www.industryweek.com/leadership/article/21145316/is-decentralizing-right-for-your-company
+* Daniel Pink, *Drive: The Surprising Truth About What Motivates Us*, Riverhead Hardcover 2009, https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us
+* Alfred P. Sloan, *My Years with General Motors*, Doubleday 1964, https://books.google.de/books?id=qHJEAAAAIAAJ&redir_esc=y
 
 ## Digital Organization
 
@@ -23,27 +25,23 @@ Books, papers, presentations...
 
 ## Other
 
-Decentralization 
-
-https://www.goco.io/blog/rise-decentralized-organization/
-
-https://link.springer.com/chapter/10.1007%2F978-3-540-46490-7_4
-
-https://events.idg.com/event-series/cso50-conference-awards/?utm_source=Newsletter&utm_medium=social&utm_campaign=CSO50_editorial
+* Daniel Pink, *Drive*
 
 Data Reply (Data Mesh)
 
 Axon
 
-https://www.mckinsey.com/business-functions/mckinsey-digital/how-we-help-clients/digital-organization
-https://www.everestgrp.com/2019-08-why-digital-transformations-fail-3-exhausting-reasons-blog-51164.html
 https://kristasoft.com/digital-transformation-success/
+
 https://www.kearney.com/web/answers/article/?/a/what-are-examples-of-big-transformation-failures-and-why-did-they-fail
+
 https://www.from.digital/is-digital-transformation-worth-it
+
 https://so.digital/article/Failed-Digital-Transformation-Projects-Its-the-People-Stupid
+
 https://reverscore.com/critical-missing-piece-from-four-failed-digital-transformations/
+
 https://www.cio.com/article/3340362/pandg-revitalizes-innovation-for-the-digital-age.html
-Axon
 
 https://www.mckinsey.com/business-functions/mckinsey-digital/how-we-help-clients/digital-organization
 
@@ -84,8 +82,5 @@ https://www.cdotrends.com/story/15189/decentralization-vs-centralization-epic-di
 https://www.mckinsey.de/business-functions/mckinsey-digital/our-insights/toward-an-integrated-technology-operating-model
 
 https://www.forbes.com/sites/peterbendorsamuel/2018/08/09/how-your-companys-it-group-must-change-to-support-digital-transformation/amp/
-
-Dan Pink 2009 Drive
-https://www.amazon.de/Drive-Surprising-Truth-About-Motivates/dp/1594484805
 
 https://www.pioneeringminds.com/alfred-sloan-organizing-corporation/
