@@ -25,8 +25,6 @@ Books, papers, presentations...
 
 ## Other
 
-* Daniel Pink, *Drive*
-
 Data Reply (Data Mesh)
 
 Axon
