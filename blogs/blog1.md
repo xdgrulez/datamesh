@@ -41,3 +41,22 @@ Fivetran for instance has published an ebook titled ["Centralizing Data with Fiv
 Hence, the same executives who are naturally embracing the lessons of Mr. Sloan and the McKinseys and live in a company composed of *decentralized* business domains seem to be completely oblivious to the fact that they are, at the same time, accepting a practice of *centralizing* their digital organizations and also their data. What a contradiction!
 
 What happens when companies take up this idea of centralizing not only IT, but also data, is often just an overly expensive mess, and this mess is actually aggravated by the aforementioned companies further advertising the centralization of data.
+
+## New structure
+
+1. Status quo, centralized architecture based on ideas of DW, DL, LH..., problems, solution: Data Mesh (principles here?). Blog 2: What/how DM in more detail, DM in technology - no need to wait for a "DM software", you can implement DM right now with existing tech!
+2. DM not primary concerned with tech - it's about the orgnaizational setup. Blog 3: Centralized data architecture -> decentralized data architecture.
+3. But actually, continue the train of thought of DM and go beyond DM. DM is about decentralizing data architecture and the organization of teams concerned with data. Given the technical underpinnings for implementing DM in Blog 2, we will take the underlying ideas of DM even further. We will go beyond them and not only propose a decentralized data organization but a decentralized organization of the digital transformation as a whole! We will show that the ideas behind DM lead to ways out of the current dilemma of the Digital Transformation, because, viewed in a simplified way, the ideas behind DM are the same ideas that have already impacted businesses worldwide since the times of Alfred P. Sloan more than a hundred years ago :)
+
+## New start
+
+Data is the new oil (ref!). But how can businesses really make use of their data in the best way possible? The industry is still struggling fiercely to solve that question. Zhamak Dehghani from Thoughtworks has found an answer - an answer that does not primarily rely on technology, but a lot more on the organizational setup. In the course of this blog series, we will put Zhamak's ideas into practice. We will lay out ways how to implement Data Mesh in technology - of course, Kafka will play a lead role here. We will then go beyond Data Mesh and continue Zhamak's train of thought to arrive at a new understanding on how not only data and analytics, but how entire digital organizations need to be set up to fulfill the promise of the Digital Transformation.
+
+```
+Digital Transformation
+|suffers from
+Centralized Organization (<- this is addressed by DM)
+|caused by
+Centralized Technology (<- this is addressed by DM)
+
+Centralized digitization is wrong.
