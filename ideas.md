@@ -115,6 +115,15 @@ connected   -> disconnected
     * testing
     * security
 
+  * DM node = Data Product Layer/Quantum = Landing Zone (Piethein Strenghold)
+    * must include some uniform kind of data storage + API e.g. S3, Kafka
+    * plus uniform data catalog/metadata/documentation + API
+  * DM node = Landing Zone (LZ) + Data Catalog (DC)
+  * One landing zone per set of sub-business domains
+  * Central DW becomes the combined/accumulated DC (fed by node DCs)
+    * no need to ship all the data to a central place, only the metadata!
+  * analytics team split up + moved partly to nodes of the DM/existing business domains, or create new cross-domain business domains
+
 ### Conway's Law (1967)
 
 "Any organization that designs a system (broadly defined) will produce a design whose structure is a copy of the organization's communication structure."

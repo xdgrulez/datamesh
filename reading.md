@@ -82,3 +82,7 @@ https://www.mckinsey.de/business-functions/mckinsey-digital/our-insights/toward-
 https://www.forbes.com/sites/peterbendorsamuel/2018/08/09/how-your-companys-it-group-must-change-to-support-digital-transformation/amp/
 
 https://www.pioneeringminds.com/alfred-sloan-organizing-corporation/
+
+https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/successful-transformations
+
+https://www.confluent.io/blog/how-to-build-a-data-mesh-using-event-streams/?mkt_tok=NTgyLVFIWC0yNjIAAAGBWUqclb1bB-8koEVYbgNBJoXYfzoLPZVNpcCzXsafGGAQ0o3WeJ6HDGaeDvo0WjGl3oHa5CBAeE-evtT9dFndpHQ_8GfgVSO2tkzFsOfMwVECBA
